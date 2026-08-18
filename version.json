@@ -24,6 +24,43 @@
     },
     {
       "name": "onyx-1.21.11.jar",
+      "size": 24845836
+    },
+    {
+      "name": "placeholder-api-2.8.2+1.21.10.jar",
+      "size": 268662
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+      "size": 1126948
+    }
+  ]
+}{
+  "version": "1.21.11 free",
+  "latest_build": "1.0.01",
+  "files": [
+    {
+      "name": "baritone-meteor-1.21.11.jar",
+      "size": 1610665
+    },
+    {
+      "name": "cloth-config-21.11.153-fabric.jar",
+      "size": 1148427
+    },
+    {
+      "name": "fabric-api-0.141.3+1.21.11.jar",
+      "size": 2412693
+    },
+    {
+      "name": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+      "size": 7796348
+    },
+    {
+      "name": "midnightlib-fabric-1.9.2+1.21.11.jar",
+      "size": 58944
+    },
+    {
+      "name": "onyx-1.21.11.jar",
       "size": 24831266
     },
     {
