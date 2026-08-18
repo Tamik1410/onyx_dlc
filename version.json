@@ -3,6 +3,10 @@
   "latest_build": "1.0.01",
   "files": [
     {
+      "name": "baritone-meteor-1.21.11.jar",
+      "size": 1610665
+    },
+    {
       "name": "cloth-config-21.11.153-fabric.jar",
       "size": 1148427
     },
@@ -20,7 +24,7 @@
     },
     {
       "name": "onyx-1.21.11.jar",
-      "size": 24831571
+      "size": 24845836
     },
     {
       "name": "placeholder-api-2.8.2+1.21.10.jar",
